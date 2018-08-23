@@ -8,7 +8,7 @@
 
 import Foundation
 
-var playingGame = true
+var playingGame = true //This is the variable that judges whether or not the game will run. If it is set to false when the game is booted up, then the game will not run.
 
 
 while playingGame == true {        //This loop is what makes the game run. If the variable is switch to false, the game ends.
